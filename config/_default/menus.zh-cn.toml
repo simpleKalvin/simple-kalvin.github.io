@@ -3,7 +3,7 @@
   url="/about/me"
   weight = 1
 [[main]]
-  name = "博客"
+  name = "文章"
   pageRef = "posts"
   weight = 10
 
