@@ -1,0 +1,5 @@
+colorScheme="congo"
+homepage.layout = "profile"
+homepage.showRecent=true
+
+defaultAppearance="aaa"

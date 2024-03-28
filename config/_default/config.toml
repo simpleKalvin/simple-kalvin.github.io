@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = "Kalvin's博客"
+params.author.name="Kalvin"
+params.author.image="/avatar/me.jpg"
+params.author.headline="PHP开发、Golang开发"
+enableRobotsTXT=true
+defaultContentLanguage = "zh-cn"
+
+[languages]
+  [languages.zh-cn]
+    languageName = "中文"
+    weight = 1
+# 页码相关
+paginate=10
