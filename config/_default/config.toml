@@ -1,4 +1,4 @@
-baseURL = 'https://simple-kalvin.github.io/'
+baseURL = 'https://example.org/'
 languageCode = 'zh-cn'
 title = "Kalvin's博客"
 params.author.name="Kalvin"
