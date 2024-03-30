@@ -4,21 +4,35 @@
   
     
       <url>
-            <loc>http://localhost:1313/about/</loc>
+            <loc>https://example.org/</loc>
+            <lastmod>2024-03-30T14:13:05+08:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://example.org/posts/mysql/</loc>
+            <lastmod>2024-03-30T14:13:05+08:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://example.org/posts/</loc>
+            <lastmod>2024-03-30T14:13:05+08:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://example.org/about/</loc>
             <lastmod>2024-03-26T22:44:39+08:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
-            <lastmod>2024-03-26T22:44:39+08:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/about/me/</loc>
+            <loc>https://example.org/about/me/</loc>
             <lastmod>2024-03-26T22:44:39+08:00</lastmod>
           </url>
     

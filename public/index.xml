@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kalvin&#39;s博客</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Kalvin&#39;s博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 26 Mar 2024 22:44:39 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Mar 2024 14:13:05 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mysql</title>
+      <link>https://example.org/posts/mysql/</link>
+      <pubDate>Sat, 30 Mar 2024 14:13:05 +0800</pubDate>
+      <guid>https://example.org/posts/mysql/</guid>
+      <description>MySQL原理 #</description>
+    </item>
     <item>
       <title>简介</title>
-      <link>http://localhost:1313/about/me/</link>
+      <link>https://example.org/about/me/</link>
       <pubDate>Tue, 26 Mar 2024 22:44:39 +0800</pubDate>
-      <guid>http://localhost:1313/about/me/</guid>
-      <description>#擅长： PHP后端开发/组长、Golang开发&#xA;专业技能 #基础： # 熟练使用Thinkphp与laravel等PHP框架,深入了解过laravel框架原理.&#xA;掌握PHP的OOP,AOP思想，使用PHP设计模式开发(ico/di,策略模式,观察者模式,适配器等)&#xA;掌握linux常用命令,LNMP项目环境部署,NFS的配置等操作&#xA;掌握php的内存管理 , GC垃圾回收机制&#xA;熟练composer,写过laravel私有库的包&#xA;有gitlab / github管理相关经验&#xA;熟练使用HTML CSS Js JQ网页开发,使用bootstrap layUI等前端框架.&#xA;了解Python并在项目中开发环节应用&#xA;了解clickhouse大数据管理系统的使用&#xA;了解 golang基本使用，包括但不限于GPM、三色染色法GC等&#xA;了解golang pkg，如gin，viper，wire，protobuf，docker，websocket等包的基本使用&#xA;掌握docker基础命令， 并能手写docker-compose、DockerFile配置&#xA;高级： # 熟悉PHP底层实现，如数组，内存分配，GC，FPM原理 熟悉PHP高级扩展swoole，熟练使用hypref并了解框架源码 熟悉Mysql数据库,可写和优化sql语句,了解MYSQL,redis读写分离 熟悉服务器优化与项目结构分拆相关经验 了解队列系统, 使用kafka与rabbitmq处理日志、下单等业务场景 了解多服务器协同,负载均衡,微服务化 了解基于Linux网络底层IO模型 了解DDD(领域驱动设计)高级编程思想 了解elasticsearch 高级布式搜索和分析引擎 了解事件风暴 了解kong网关使用 了解mongodb基本使用 了解beego关于ORM、路由、中间件源码及基础实现 了解GIN基础实现 了解golang组合模式及在业务中使用 了解golang泛型及在业务中使用 了解基于golang的TDD(测试驱动开发含单元与集成)并在业务中使用 了解golang pprof 内存分析工具 排查并处理过 项目内存泄露问题 了解k8shelm，prometheus等工具使用和配置 了解DevOps思想 了解部署一整套系统从程序编译，测试，发布，部署，监控 工作经历 #广州人瑞科技-SHEIN项目组 【主开发】 2023年03月 - 至今&#xA;广州大蓝网络科技有限公司 【PHP开发】 2021年08月 - 2022年10月&#xA;广东灵机文化传播有限公司 【后端组长】2019年02月-2021年07月</description>
+      <guid>https://example.org/about/me/</guid>
+      <description> #擅长： PHP后端开发/组长、Golang开发&#xA;专业技能 #基础： # 熟练使用Thinkphp与laravel等PHP框架,深入了解过laravel框架原理.&#xA;掌握PHP的OOP,AOP思想，使用PHP设计模式开发(ico/di,策略模式,观察者模式,适配器等)&#xA;掌握linux常用命令,LNMP项目环境部署,NFS的配置等操作&#xA;掌握php的内存管理 , GC垃圾回收机制&#xA;熟练composer,写过laravel私有库的包&#xA;有gitlab / github管理相关经验&#xA;熟练使用HTML CSS Js JQ网页开发,使用bootstrap layUI等前端框架.&#xA;了解Python并在项目中开发环节应用&#xA;了解clickhouse大数据管理系统的使用&#xA;了解 golang基本使用，包括但不限于GPM、三色染色法GC等&#xA;了解golang pkg，如gin，viper，wire，protobuf，docker，websocket等包的基本使用&#xA;掌握docker基础命令， 并能手写docker-compose、DockerFile配置&#xA;高级： # 熟悉PHP底层实现，如数组，内存分配，GC，FPM原理 熟悉PHP高级扩展swoole，熟练使用hypref并了解框架源码 熟悉Mysql数据库,可写和优化sql语句,了解MYSQL,redis读写分离 熟悉服务器优化与项目结构分拆相关经验 了解队列系统, 使用kafka与rabbitmq处理日志、下单等业务场景 了解多服务器协同,负载均衡,微服务化 了解基于Linux网络底层IO模型 了解DDD(领域驱动设计)高级编程思想 了解elasticsearch 高级布式搜索和分析引擎 了解事件风暴 了解kong网关使用 了解mongodb基本使用 了解beego关于ORM、路由、中间件源码及基础实现 了解GIN基础实现 了解golang组合模式及在业务中使用 了解golang泛型及在业务中使用 了解基于golang的TDD(测试驱动开发含单元与集成)并在业务中使用 了解golang pprof 内存分析工具 排查并处理过 项目内存泄露问题 了解k8shelm，prometheus等工具使用和配置 了解DevOps思想 了解部署一整套系统从程序编译，测试，发布，部署，监控 </description>
     </item>
   </channel>
 </rss>
